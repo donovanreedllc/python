@@ -10,7 +10,8 @@ mystr = "This is a string"
 mybool = True
 
 # We can display the content of a variable using the print() function
-
+print(myint)
+print(mystr)
 
 # Operators are used to perform operations on variables
 
